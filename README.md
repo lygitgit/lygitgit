@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm lygitgit</h1>
-<h3 align="center">I'm interested in Remote Sensing Image Processing & ....
-  <img align='right' src="https://github.com/lygitgit/lygitgit/blob/main/pic/typing.gif" width="350">
-
-</h3>
-
+<h3 align="center">I'm interested in Remote Sensing Image Processing & ....</h3>
+<img align='right' src="https://github.com/lygitgit/lygitgit/blob/main/pic/typing.gif" width="100">
 - 🔭 I’m currently working on **Remote Sensing SGG**
 
 - 🌱 I’m currently learning **SGG and Tool Integration in Large Models**
